@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 - ✍ I'm a student of: [FPT PolyTechnic Ho Chi Minh](https://caodang.fpt.edu.vn/) (Fpoly HCM).
 
-- 🌱 I learned  learning **Software application.**
+- 🌱 I learned **Software application.**
 
 
 ## 📫 How to reach me:
