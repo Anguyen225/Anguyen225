@@ -27,7 +27,9 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/eclipse.png"/>
+  <img src="https://img.icons8.com/windows/48/000000/netbeans.png"/>
+  <img src="https://img.icons8.com/office/46/000000/java-eclipse.png"/>
+  
 </p>
 
 <table style="width:100%;">
